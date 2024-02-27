@@ -9,7 +9,7 @@ public class Plateau extends JFrame {
     
     Joueur joueur1;
     Joueur joueur2;
-
+//dsqdsq
     public Plateau(Joueur joueur1, Joueur joueur2) {
         this.setJoueur1(joueur1);
         this.setJoueur2(joueur2);
