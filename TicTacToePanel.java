@@ -13,7 +13,7 @@ public class TicTacToePanel extends JPanel {
     Bouton[][] buttons;
     Morpion morpion;
     Joueur[] joueurs = new Joueur[2];
-    boolean joueurMoving;
+    boolean joueurMoving; //comme
     JLabel error = new JLabel();
 
     public TicTacToePanel() {
